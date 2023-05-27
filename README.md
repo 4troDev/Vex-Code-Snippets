@@ -1,6 +1,6 @@
 # Vex Code Snippets
     
-[![GitHub release](https://img.shields.io/github/release/4troDev/MoveForward.svg)]
+[![GitHub release](https://img.shields.io/github/release/4troDev/Vex-Code-Snippets.svg)]
 
 ![Vex V5 Robot](assets/robot_icon.avif)
 ## Description
