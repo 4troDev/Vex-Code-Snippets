@@ -2,17 +2,20 @@
     
 [![GitHub release](https://img.shields.io/github/release/4troDev/MoveForward.svg)]
 
-![Vex V5 Robot](robot_icon.avif)
+![Vex V5 Robot](assets/robot_icon.avif)
 ## Description
 
 Vex Code Snippets is a collection of code snippets designed to control a Vex V5 Robot using Python and the Vexcode Library. These snippets provide ready-to-use code segments that can be easily integrated into your robot projects. Each snippet focuses on a specific functionality or task, allowing you to quickly implement common robotic operations.
 
 
 ## Table of Contents
-1. [ChangeLog](CHANGELOG.md)
-2. [Documentation](Docs.md)
-3. [Contributing](CONTRIBUTING.md)
-4. [License](LICENSE.md)
+1. [ChangeLog](Docs/CHANGELOG.md)
+2. [Documentation](Docs/Docs.md)
+3. [Contributing](Docs/CONTRIBUTING.md)
+4. [License](Docs/LICENSE.md)
+5. [Code of Conduct](Docs/CODE_OF_CONDUCT.md)
+6. [Contact](#contact)
+7. [Snippets](./docs/Snippets-Docs/)
 
 
 
@@ -72,13 +75,13 @@ For detailed documentation on the Vexcode Library and Vex Python Library, refer 
 
 ## Discord Community
 
-Join our Discord community to connect with other robotics enthusiasts, ask questions, and share your projects: [Discord Invite Link](https://discord.gg/kvrQSyRExj)
+Join our Discord community to connect with other robotics enthusiasts, ask questions, and share your projects: [RoboHub Invite Link](https://discord.gg/kvrQSyRExj)
 
 ## Social Media
 
 Stay updated with the latest news, projects, and announcements by following us on social media:
 
-- Twitter: [@4tro_Dev](https://twitter.com/4tro_Dev)
+- Twitter: [@RoboHubHQ](https://twitter.com/RoboHubHQ)
 
 
 ## License
@@ -87,7 +90,7 @@ This project is licensed under the [Creative Commons Attribution 3.0 Unported Li
 
 ## Contribution Guide
 
-Contributions to the Vex Code Snippets project are welcome! If you want to contribute code snippets, bug fixes, or improvements, please refer to the [Contribution Guide](CONTRIBUTING.md) for more information on how to get started.
+Contributions to the Vex Code Snippets project are welcome! If you want to contribute code snippets, bug fixes, or improvements, please refer to the [Contribution Guide](Docs/CONTRIBUTING.md) for more information on how to get started.
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join our Discord community using the link provided above.
