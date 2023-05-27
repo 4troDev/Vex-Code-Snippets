@@ -1,6 +1,6 @@
 # Vex Code Snippets
     
-[![GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square)
+[GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square)
 
 ![Vex V5 Robot](assets/robot_icon.avif)
 ## Description
