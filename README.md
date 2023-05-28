@@ -88,7 +88,7 @@ Join our Discord community to connect with other robotics enthusiasts, ask quest
 Stay updated with the latest news, projects, and announcements by following us on social media:
 
 - Twitter: [@RoboHubHQ](https://twitter.com/RoboHubHQ)
-- Discord: [RoboHub](https://discord.gg/kvrQSyRExj)
+- Discord: [RoboHub](https://discord.gg/zGPwTmMWMP)
 
 
 ## License
