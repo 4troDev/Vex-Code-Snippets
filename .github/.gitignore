@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Data
+*.csv
+*.xlsx
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+.env.*
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store

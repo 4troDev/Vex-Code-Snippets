@@ -1,17 +1,22 @@
+<div align="center">
+  <img src="assets/Vex_Code_Snippets_Logo.png" alt="Logo">
+</div>
+
 # Vex Code Snippets
     
 ![GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square) | ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubQH?style=social) | ![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) | ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square)
 
 
-![Vex V5 Robot](assets/robot_icon.avif)
+
 ## Description
 
 Vex Code Snippets is a collection of code snippets designed to control a Vex V5 Robot using Python and the Vexcode Library. These snippets provide ready-to-use code segments that can be easily integrated into your robot projects. Each snippet focuses on a specific functionality or task, allowing you to quickly implement common robotic operations.
 
 
 ## Table of Contents
-1. [ChangeLog](Docs/CHANGELOG.md)
-2. [Documentation](Docs/Docs.md)
+1. [ChangeLog](Docs/CHANGELOG.md) | [Web Changelog](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/CHANGELOG.md)
+
+2. [Documentation](Docs/Docs.md) | [Web Docs](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/Docs.md)
 3. [Contributing](Docs/CONTRIBUTING.md)
 4. [License](Docs/LICENSE.md)
 5. [Code of Conduct](Docs/CODE_OF_CONDUCT.md)
@@ -92,7 +97,7 @@ This project is licensed under the [Creative Commons Attribution 3.0 Unported Li
 
 ## Contribution Guide
 
-Contributions to the Vex Code Snippets project are welcome! If you want to contribute code snippets, bug fixes, or improvements, please refer to the [Contribution Guide](Docs/CONTRIBUTING.md) for more information on how to get started.
+Contributions to the Vex Code Snippets project are welcome! If you want to contribute code snippets, bug fixes, or improvements, please refer to the [Contribution Guide](Docs/CONTRIBUTING.md) | [Web Contribution Guide](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/CONTRIBUTING.md) for more information on how to get started.
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join our Discord community using the link provided above.
