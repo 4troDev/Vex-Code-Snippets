@@ -4,7 +4,7 @@
 
 # Vex Code Snippets
     
-![GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square) | ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubQH?style=social) | ![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) | ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square)
+![GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square) | ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubHQ?style=social) | ![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) | ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square)
 
 
 
@@ -81,7 +81,7 @@ For detailed documentation on the Vexcode Library and Vex Python Library, refer 
 
 ## Discord Community
 
-Join our Discord community to connect with other robotics enthusiasts, ask questions, and share your projects: [RoboHub Invite Link](https://discord.gg/kvrQSyRExj)
+Join our Discord community to connect with other robotics enthusiasts, ask questions, and share your projects: [RoboHub Invite Link](https://discord.gg/zGPwTmMWMP)
 
 ## Social Media
 
