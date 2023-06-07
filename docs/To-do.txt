@@ -1,6 +1,5 @@
 - Vex Code Snippets/
   - docs/
-    - moving_forward.md
     - turning_left.md
     - turning_right.md
     - controlling_motor_speed.md

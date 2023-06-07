@@ -101,3 +101,8 @@ Contributions to the Vex Code Snippets project are welcome! If you want to contr
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join our Discord community using the link provided above.
+
+
+## Code Contributors
+This project exists thanks to all the people who contribute. 
+

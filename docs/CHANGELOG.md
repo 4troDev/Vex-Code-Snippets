@@ -3,7 +3,6 @@
 All notable changes to the "Vex Code Snippets" project will be documented in this file.
 
 ## [Unreleased]
-- Added new code snippet for moving backward.
 - Added new code snippet for stopping the robot.
 - Turning left and right
 - Controlling motor speed
@@ -13,6 +12,17 @@ All notable changes to the "Vex Code Snippets" project will be documented in thi
 - Implementing autonomous routines
 - Create Docs for each code snippet
 - Have a different readme for each code snippet
+
+## [1.0.1] - 2023-06-07
+### Added
+- Added new code snippet for moving backward.
+- Added Docs for the MoveBackward code snippet.
+- Added a contribution sample for users who want to contribute code snippets.
+- Added Docs for the MoveBackward code snippet.
+
+
+
+## [1.0.0] - 2023-05-25
 ### Added
 
 
