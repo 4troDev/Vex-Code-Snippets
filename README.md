@@ -105,6 +105,6 @@ Contributions to the Vex Code Snippets project are welcome! If you want to contr
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join our Discord community using the link provided above.
 
-## </> with 💜 by [4tro_Dev](https://github.com/4TroDev) and Constributors
+#### </> with 💜 by [4tro_Dev](https://github.com/4TroDev) and Constributors
 
 ![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) 

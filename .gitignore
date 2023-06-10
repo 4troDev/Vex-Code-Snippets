@@ -1,2 +1,5 @@
 
 .DS_Store
+
+# Ignore Features and To-Do folder
+/Features and To-Do/
