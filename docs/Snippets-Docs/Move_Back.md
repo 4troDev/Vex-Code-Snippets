@@ -1,4 +1,4 @@
-# Docs for the MoveBack code snippet
+# Docs for the `Move Back` code snippet
 
 ## Description
 Move the Vex V5 Robot backward autonomously after running the program from its corrent position.

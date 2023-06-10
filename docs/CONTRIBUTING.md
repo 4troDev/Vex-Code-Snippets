@@ -63,8 +63,8 @@ When contributing code to the project, please adhere to the following guidelines
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the [Creative Commons Attribution 3.0 Unported License ](License).
 
 ## Contact
 
-If you have any further questions or need assistance with the contribution process, feel free to reach out to the project maintainer at [email@example.com](mailto:email@example.com).
+If you have any further questions or need assistance with the contribution process, feel free to reach out to the project maintainer at [josue.dev@yahoo.com](mailto:josue.dev@yahoo.com).

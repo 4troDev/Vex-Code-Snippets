@@ -2,16 +2,23 @@
 
 All notable changes to the "Vex Code Snippets" project will be documented in this file.
 
-## [Unreleased]
+## [Unreleased/ In Progress ] 
 - Added new code snippet for stopping the robot.
-- Turning left and right
 - Controlling motor speed
-- Sensing and reacting to obstacles
-- Line following
-- Using sensors (gyro, distance, line tracking)
-- Implementing autonomous routines
-- Create Docs for each code snippet
-- Have a different readme for each code snippet
+
+
+## [1.0.2] - 2023-06-09
+
+### Added
+- Added [Turning Left Docs](../docs/turning_left.md)
+- Added [Turning Left Snippet](../turn_left.py)
+- Added [Turning Right Docs](../docs/turning_right.md)
+- Added [Turning Right Snippet](../turn_right.py)
+### Updated
+- Updated [Readme](../README.md)
+- Docs Located in [Docs](../docs) folder
+- Constribution Guidelines Located in [Contributing](../CONTRIBUTING.md)
+- Code of Conduct Located in [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ## [1.0.1] - 2023-06-07
 ### Added

@@ -35,7 +35,7 @@ print("\033[2J")
 #   Author:       4troDev - Github: @4troDev | Twitter: @4tro_Dev
 #   Created:      Jun 7, 2023
 #   Description:  This code is designed to control a Vex V5 Robot using python and the Vexcode Library.
-#                 The main objective of the code is to move the robot in reverse.
+#
 # ------------------------------------------
 
 

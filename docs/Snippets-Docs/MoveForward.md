@@ -1,4 +1,4 @@
-# Docs for the MoveForward code snippet
+# Docs for the `Move Forward` code snippet
 
 ## Description
 Move the Vex V5 Robot forward autonomously after running the program.

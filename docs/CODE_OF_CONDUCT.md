@@ -30,7 +30,7 @@ The following behaviors are considered unacceptable within our project:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [email@example.com](mailto:email@example.com). All complaints will be reviewed and investigated promptly and fairly. The maintainers are obligated to maintain confidentiality regarding the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [josue.dev@yahoo.com](mailto:josue.dev@yahoo.com). All complaints will be reviewed and investigated promptly and fairly. The maintainers are obligated to maintain confidentiality regarding the reporter of an incident.
 
 If a participant engages in behavior that violates this Code of Conduct, the maintainers may take any appropriate action they deem necessary. This may include issuing warnings, temporary or permanent bans from the project's communication channels, or other actions aimed at resolving the situation.
 

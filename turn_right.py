@@ -30,11 +30,10 @@ print("\033[2J")
 
 # ------------------------------------------
 #
-#   Project:      Move Forward
+#   Project:      Turn Right 
 #   Author:       4troDev - Github: @4troDev | Twitter: @4tro_Dev
 #   Created:      May 24, 2023
 #   Description:  This code is designed to control a Vex V5 Robot using python and the Vexcode Library.
-#               
 # ------------------------------------------
 
 
@@ -42,7 +41,8 @@ print("\033[2J")
 from vex import *
 
 # Begin project code
-# Driving Forward  - Moves 7ft forward
+# Driving Forward and turn 90 Degress to the right before driving foward again and stoping
 drivetrain.drive_for(FORWARD, 1000, MM)
-drivetrain.drive_for(FORWARD, 1000, MM)
+drivetrain.drive_for(RIGTH, 90, DEGREES)
 drivetrain.drive_for(FORWARD, 200, MM)
+

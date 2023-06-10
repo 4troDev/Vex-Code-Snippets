@@ -3,10 +3,13 @@
 </div>
 
 # Vex Code Snippets
-    
-![GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square) | ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubHQ?style=social) | ![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) | ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square)
+![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightblue.svg)
+![GitHub release](https://img.shields.io/github/v/release/4troDev/Vex-Code-Snippets?style=flat-square) 
+![GitHub last commit](https://img.shields.io/github/last-commit/4troDev/Vex-Code-Snippets?style=flat-square)
+![GitHub](https://img.shields.io/github/license/4troDev/Vex-Code-Snippets?color=geen&style=flat-square)
 
-
+| ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubHQ?style=social)
+| ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square)
 
 ## Description
 
@@ -18,7 +21,7 @@ Vex Code Snippets is a collection of code snippets designed to control a Vex V5 
 
 2. [Documentation](Docs/Docs.md) | [Web Docs](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/Docs.md)
 3. [Contributing](Docs/CONTRIBUTING.md)
-4. [License](Docs/LICENSE.md)
+4. [License](.github/License)
 5. [Code of Conduct](Docs/CODE_OF_CONDUCT.md)
 6. [Contact](#contact)
 7. [Snippets](./docs/Snippets-Docs/)
@@ -102,7 +105,6 @@ Contributions to the Vex Code Snippets project are welcome! If you want to contr
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join our Discord community using the link provided above.
 
+## </> with 💜 by [4tro_Dev](https://github.com/4TroDev) and Constributors
 
-## Code Contributors
-This project exists thanks to all the people who contribute. 
-
+![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) 
