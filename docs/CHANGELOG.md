@@ -3,9 +3,17 @@
 All notable changes to the "Vex Code Snippets" project will be documented in this file.
 
 ## [Unreleased/ In Progress ] 
-- Added new code snippet for stopping the robot.
-- Controlling motor speed
+- Added new code snippet for stopping the robot. - stop_robot.py stop_robot.md
 
+
+## [1.0.3] - 2023-06-17
+- Added [Speed Control Docs](../docs/speed_ctrl.md)
+- Added [Speed Control Snippet](../speed_ctrl.py)
+- Updated [Readme](../README.md)
+- Improve Comments in new code snippets
+- Updated [Snippets.md](../Snippets.md)
+- Added [documentation.md](../docs/documentation.md)
+- Added [documentation.md](../docs/documentation.md)
 
 ## [1.0.2] - 2023-06-09
 

@@ -19,13 +19,12 @@ Vex Code Snippets is a collection of code snippets designed to control a Vex V5 
 ## Table of Contents
 1. [ChangeLog](Docs/CHANGELOG.md) | [Web Changelog](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/CHANGELOG.md)
 
-2. [Documentation](Docs/Docs.md) | [Web Docs](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/Docs.md)
+2. [Documentation](./docs/documentation.md) | [Web Docs](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/Docs.md)
 3. [Contributing](Docs/CONTRIBUTING.md)
 4. [License](.github/License)
 5. [Code of Conduct](Docs/CODE_OF_CONDUCT.md)
 6. [Contact](#contact)
 7. [Snippets](./docs/Snippets-Docs/)
-
 
 
 ## Requirements
@@ -70,7 +69,10 @@ Feel free to customize and modify the code snippets to suit your specific needs.
 
 The Vex Code Snippets repository contains a variety of code snippets for different robot functionalities, such as:
 
-- Moving forward and backward
+- [Moving Forward](move_forward.py)
+- [Moving Backward](move_backward.py)
+- [Turning Left](turn_left.py)
+- [Turning Right](turn_right.py)
 
 
 Refer to the repository's README file for a detailed description of each available snippet and how to use them.
@@ -103,8 +105,7 @@ This project is licensed under the [Creative Commons Attribution 3.0 Unported Li
 Contributions to the Vex Code Snippets project are welcome! If you want to contribute code snippets, bug fixes, or improvements, please refer to the [Contribution Guide](Docs/CONTRIBUTING.md) | [Web Contribution Guide](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/CONTRIBUTING.md) for more information on how to get started.
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join our Discord community using the link provided above.
+If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join the [RoboHub](https://discord.gg/zGPwTmMWMP) Discord community using the link provided above.
+
 
 #### </> with 💜 by [4tro_Dev](https://github.com/4TroDev) and Constributors
-
-![4tro_Dev](https://img.shields.io/twitter/follow/4tro_Dev?style=social) 
