@@ -75,6 +75,7 @@ The Vex Code Snippets repository contains a variety of code snippets for differe
 - [Turning Right](turn_right.py)
 
 
+
 Refer to the repository's README file for a detailed description of each available snippet and how to use them.
 
 ## Documentation
