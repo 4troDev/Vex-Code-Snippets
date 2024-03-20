@@ -19,7 +19,7 @@ Vex Code Snippets is a collection of code snippets designed to control a Vex V5 
 ## Table of Contents
 1. [ChangeLog](Docs/CHANGELOG.md) | [Web Changelog](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/CHANGELOG.md)
 
-2. [Documentation](./docs/documentation.md) | [Web Docs](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/Docs.md)
+2. [Documentation](./docs/documentation.md) | [Web Docs](https://VCS.4trodev.com/)
 3. [Contributing](Docs/CONTRIBUTING.md)
 4. [License](.github/License)
 5. [Code of Conduct](Docs/CODE_OF_CONDUCT.md)
