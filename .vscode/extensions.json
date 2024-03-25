@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+      "vexrobotics.vexfeedback",
+      "evexrobotics.vexcode",
+      "ms-python.debugpy",
+      "ms-python.python"
+    ],
+  }
