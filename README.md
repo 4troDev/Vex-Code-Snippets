@@ -84,6 +84,7 @@ For detailed documentation on the Vexcode Library and Vex Python Library, refer 
 
 - [Vexcode Library Documentation](https://kb.vex.com/hc/en-us/categories/360002333191-V5)
 - [Vex Python Library Documentation](https://pypi.org/project/vex/)
+- [Files for documentation website](https://github.com/Bullctrl/VCS-Docs)
 
 ## Discord Community
 
