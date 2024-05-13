@@ -105,6 +105,7 @@ This project is licensed under the [Creative Commons Attribution 3.0 Unported Li
 ## Contribution Guide
 
 Contributions to the Vex Code Snippets project are welcome! If you want to contribute code snippets, bug fixes, or improvements, please refer to the [Contribution Guide](Docs/CONTRIBUTING.md) | [Web Contribution Guide](https://github.com/4troDev/Vex-Code-Snippets/blob/main/docs/CONTRIBUTING.md) for more information on how to get started.
+
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me on Twitter [@4tro_Dev](https://twitter.com/4tro_Dev) or join the [RoboHub](https://discord.gg/zGPwTmMWMP) Discord community using the link provided above.
