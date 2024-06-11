@@ -8,9 +8,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/4troDev/Vex-Code-Snippets?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/4troDev/Vex-Code-Snippets?color=geen&style=flat-square)
 
-| ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubHQ?style=social)
-| ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square)
 
+
+<!-- | ![RoboHub Community](https://img.shields.io/twitter/follow/RoboHubHQ?style=social)
+| ![RoboHub Discord](https://img.shields.io/discord/1112098408270925876?style=flat-square) -->
 ## Description
 
 Vex Code Snippets is a collection of code snippets designed to control a Vex V5 Robot using Python and the Vexcode Library. These snippets provide ready-to-use code segments that can be easily integrated into your robot projects. Each snippet focuses on a specific functionality or task, allowing you to quickly implement common robotic operations.
@@ -25,6 +26,7 @@ Vex Code Snippets is a collection of code snippets designed to control a Vex V5 
 5. [Code of Conduct](Docs/CODE_OF_CONDUCT.md)
 6. [Contact](#contact)
 7. [Snippets](./docs/Snippets-Docs/)
+8. [Requirements](/Requirements.md)
 
 
 ## Requirements
@@ -34,6 +36,9 @@ To use the Vex Code Snippets, you will need the following:
 1. Vex V5 Robot
 2. Vexcode Library
 3. Python
+4. Micro usb cable
+5. Vex V5 Brain
+
 
 ## Installation
 

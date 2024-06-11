@@ -6,6 +6,15 @@ All notable changes to the "Vex Code Snippets" project will be documented in thi
 - Added new code snippet for stopping the robot. - stop_robot.py stop_robot.md
 
 
+## [1.0.4] - 2024-06-11 
+- added [Security](/SECURITY.md) - security policy.
+- added [Security Email](/SECURITY-EMAIL.md) - email sample.
+- added [Requirements](/Requirements.md) - list of requirements.
+- Updated [Code of conduct](/CODE_OF_CONDUCT.md) 
+- Updated [Constributing](/CONTRIBUTING.md)
+- Updated [Readme](/README.md)
+
+
 ## [1.0.3] - 2023-06-17
 - Added [Speed Control Docs](../docs/speed_ctrl.md)
 - Added [Speed Control Snippet](../speed_ctrl.py)
